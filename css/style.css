@@ -1,0 +1,15 @@
+
+    GLOBAL
+    TYPOGRAPHY
+    NAVIGATION
+
+
+html{
+    background: black;
+    min-height: 100%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8rem;
+}
