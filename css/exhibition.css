@@ -1,0 +1,70 @@
+.musuem{
+   top: 0%;
+   left: 50%;
+
+
+}
+   .moma{
+      position: absolute;
+   top: 35%;
+   left: 20%;
+   z-index: 1;
+
+
+}
+   .mushroom{
+      position: absolute;
+   top: 16%;
+   left: 55%;
+   z-index: 2;
+
+
+}
+   .design{
+      position: absolute;
+   top: 63%;
+   left: 10%;
+   z-index: 1;
+
+
+}
+.han{
+      position: absolute;
+   top: 53%;
+   left: 73%;
+   z-index: 1;
+
+
+}
+
+#capitalism{
+   position: absolute;
+   top: 5%;
+   left:10%;
+   z-index:1;
+}
+
+#poster{
+   position: absolute;
+   top: 40%;
+   left:10%;
+   z-index:1;
+}
+#shroom{
+   position: absolute;
+   top: 10%;
+   left: 50%;
+   z-index:2;
+}
+#good{
+   position: absolute;
+   top: 65%;
+   left: 10%;
+   z-index:2;
+}
+#shake{
+   position: absolute;
+   top: 50%;
+   left: 47%;
+   z-index:2;
+}

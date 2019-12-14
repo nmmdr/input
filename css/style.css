@@ -1,15 +1,127 @@
-
-    GLOBAL
-    TYPOGRAPHY
-    NAVIGATION
-
-
-html{
-    background: black;
-    min-height: 100%;
-}
-
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+ }
+  
+ a{
+    z-index: 1;
+ }
+ h1{
     font-size: 8rem;
-}
+    /* align-items: center; */
+    /* align-items: center; */
+    /* justify-content: center;
+    flex-direction: column; */
+    position: absolute;
+    top: 0%;
+    left: 18%;
+  
+   
+   
+ }
+  
+ img{
+    /* width: 50rem;
+    height: 50rem;
+    /* align-items: center;
+    flex-direction: row;
+    display: inline-block; */ */
+ }
+ .background{
+    background-position: center center;
+    display: flex;
+    scale: 100%;
+ }
+
+ .opacity {
+    top: 0%;
+    left: 50%;
+  scale:30px;
+ }
+ #img1
+    top: 0%;
+    left: 50%;
+  scale:30px;
+  
+ }
+    .moma{
+        position: absolute;
+    top: 40%;
+    left: 10%;
+    z-index: 1;
+  
+  
+ }
+    .mushroom{
+        position: absolute;
+    top: 16%;
+    left: 47%;
+    z-index: 2;
+  
+  
+ }
+    .design{
+        position: absolute;
+    top: 83%;
+    left: 10%;
+    z-index: 1;
+  
+  
+ }
+ .han{
+        position: absolute;
+    top: 63%;
+    left: 53%;
+    z-index: 1;
+  
+  
+ }
+ .opacity{
+    opacity: 0;
+ }
+
+ #img1{
+   
+    position: absolute;
+    top: 5%;
+    left:10%;
+    z-index:-1;
+ }
+  
+ #poster{
+    position: absolute;
+    top: 40%;
+    left:10%;
+    z-index:1;
+    width: 30rem;
+  
+ }
+ #shroom{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    z-index:2;
+ }
+ #good{
+    position: absolute;
+    top: 65%;
+    left: 10%;
+    z-index:2;
+ }
+ #shake{
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    z-index:2;
+ }
+  
+  
+ /* .background{
+ align-items: stretch;
+ } */
+  
+ p{
+    font-size: 3rem;;
+ }
+ 
+ Style.css
+ 
