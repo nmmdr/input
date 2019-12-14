@@ -1,0 +1,49 @@
+body {
+   font-family: 'Open Sans', sans-serif;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   padding-left: 30px;
+   padding-right:30px;
+ 
+}
+ 
+ 
+h1{
+   font-size: 8rem;
+   /* align-items: center; */
+   text-align: right;
+   flex-direction: row;
+   /* justify-content: center;
+   flex-direction: column; */
+   position: absolute;
+   top: 30%;
+   left: 50%;
+   text-decoration: none;
+   color: black;
+   ;
+}
+ 
+h1.hover{
+   color: orange;
+}
+ 
+p{
+   font-size: 24px;
+   padding-left: 30px;
+   padding-right:30px;
+   flex-direction: flex;
+   position: absolute;
+   z-index: 1;
+}
+img{
+   transform: rotate(90deg);
+   z-index: 0;
+ 
+  
+}
+}
+.han
+{
+width:8rem;
+height:9rem;
+}
