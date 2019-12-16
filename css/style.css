@@ -12,8 +12,9 @@ body {
     /* justify-content: center;
     flex-direction: column; */
     position: absolute;
-    bottom: 5%;
+    bottom: 10%;
     left: 18%;
+    color:black
   
    
    
@@ -34,16 +35,51 @@ body {
 
  .opacity {
    opacity: 0;
-   left: 50%;
-   width:100px;
-   
+   /* left: 50%; */
+   width:180px;
  }
 
- #img1{
+  #img1{
     position: absolute;
     top: 5%;
     left: 50%;
  }
+
+  #img2{
+   position: absolute;
+   top: 30%;
+   right: 55%;
+   padding-left: 6%;
+} 
+
+#img3{
+   position: absolute;
+   top: 10%;
+   left: 20%;
+}  
+
+#img4{
+   position: absolute;
+   top: 20%;
+   left: 25%;
+}  
+
+#img7{
+   position: absolute;
+   top: 10%;
+   right: 5%;
+
+} 
+
+#img8{
+   position: absolute;
+   top: 20%;
+   right: 25%;
+
+} 
+
+
+
 
  /* .opacity{
     opacity: 0;
